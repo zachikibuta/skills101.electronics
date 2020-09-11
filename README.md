@@ -1,5 +1,4 @@
 <HTML>
-<h1>Skills 101: Make it shine <h1/>  
 <div>
 </div>
 <p class="p0"><span class="s1"><a href="https://docs.google.com/document/d/18hnCAKtErFyLZ7Q0TTE4hTFRT5XQaSNrPP_oWJEGZWY/edit">1. First Day Sample: Learning Goals</a></span>&nbsp;<br /> <a href="https://docs.google.com/document/d/18hnCAKtErFyLZ7Q0TTE4hTFRT5XQaSNrPP_oWJEGZWY/edit"><span class="s1">
