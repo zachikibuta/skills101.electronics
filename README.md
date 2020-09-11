@@ -80,15 +80,7 @@
 </ul>
 </div>
 {% include youtubePlayer.html id=page.youtubeId %}
-<div class="embed-container">
-  <iframe
-      src="https://www.youtube.com/embed/watch?v=0Yp0OZBs8d4"
-      width="700"
-      height="480"
-      frameborder="0"
-      allowfullscreen="">
-  </iframe>
-</div>
+
 ---
-youtubeId: Asana for Agile!
+youtubeId: watch?v=0Yp0OZBs8d4
 ---
