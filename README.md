@@ -79,4 +79,4 @@
 <li><a href="https://www.youtube.com/watch?v=0Yp0OZBs8d4" target="_blank" rel="noopener">ASANA for Agile!</a></li>
 </ul>
 </div>
-{% include youtubePlayer.html id=page.watch?v=0Yp0OZBs8d4 %}
+{% include youtubePlayer.html id=watch?v=0Yp0OZBs8d4 %}
