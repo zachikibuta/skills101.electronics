@@ -79,7 +79,12 @@
 <li><a href="https://www.youtube.com/watch?v=0Yp0OZBs8d4" target="_blank" rel="noopener">ASANA for Agile!</a></li>
 </ul>
 </div>
-<video width="320" height="240" controls>
-<source src="https://www.youtube.com/watch?v=0Yp0OZBs8d4">
-Your browser does not support this awesome video title.
-</video>
+<div class="embed-container">
+  <iframe
+      src="https://www.youtube.com/embed/watch?v=0Yp0OZBs8d4"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+</div>
