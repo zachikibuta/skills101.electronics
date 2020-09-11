@@ -1,9 +1,9 @@
 <div>
-<p><a href="https://classroom.google.com/u/1/w/MTI3MjU2MTQwMjU1/tc/MTI3NDE5OTgxNjMz">1. First Day Sample: Learning Goals</a>&nbsp;</p>
+<h2><a href="https://docs.google.com/document/d/18hnCAKtErFyLZ7Q0TTE4hTFRT5XQaSNrPP_oWJEGZWY/edit">1. First Day Sample: Learning Goals</a>&nbsp;</h2>
 </div>
 <div>
-<p><a href="https://classroom.google.com/u/1/w/MTI3MjU2MTQwMjU1/tc/MTI3NDE5OTgxNjQy">2. Ice-Breaking Activities</a></p>
-<p><a href="https://classroom.google.com/u/1/w/MTI3MjU2MTQwMjU1/tc/MTI3MzkzMzg3MjYz">3. Project</a></p>
+<h2><a href="https://classroom.google.com/u/1/w/MTI3MjU2MTQwMjU1/tc/MTI3NDE5OTgxNjQy">2. Ice-Breaking Activities</a></h2>
+<h2><a href="https://classroom.google.com/u/1/w/MTI3MjU2MTQwMjU1/tc/MTI3MzkzMzg3MjYz">3. Project</a></h2>
 <ul>
 <li>Project</li>
 <li>Activity Beginner: Paper Circuits &nbsp;</li>
@@ -18,13 +18,13 @@
 </ul>
 </div>
 <div>
-<p><a href="https://classroom.google.com/u/1/w/MTI3MjU2MTQwMjU1/tc/MTI3NDM1NDYyMjc2">4. Second Day Sample: Learning Goals</a></p>
+<h2><a href="https://classroom.google.com/u/1/w/MTI3MjU2MTQwMjU1/tc/MTI3NDM1NDYyMjc2">4. Second Day Sample: Learning Goals</a></h2>
 <ul>
 <li>Learning Goals</li>
 </ul>
 </div>
 <div>
-<p><a href="https://classroom.google.com/u/1/w/MTI3MjU2MTQwMjU1/tc/MTI3NDM1ODYwODk1">5. Inspiration CNC</a></p>
+<h2><a href="https://classroom.google.com/u/1/w/MTI3MjU2MTQwMjU1/tc/MTI3NDM1ODYwODk1">5. Inspiration CNC</a></h2>
 </div>
 <div>
 <ul>
@@ -37,7 +37,7 @@
 </ul>
 </div>
 <div>
-<p><a href="https://classroom.google.com/u/1/w/MTI3MjU2MTQwMjU1/tc/MTI3NDY0MTk4MTc5">6. Project</a> &nbsp;</p>
+<h2><a href="https://classroom.google.com/u/1/w/MTI3MjU2MTQwMjU1/tc/MTI3NDY0MTk4MTc5">6. Project</a> &nbsp;</h2>
 </div>
 <div>
 <ul>
@@ -54,8 +54,8 @@
 </ul>
 </div>
 <div>
-<p><a href="https://classroom.google.com/u/1/w/MTI3MjU2MTQwMjU1/tc/MTI3NDc5MzU5MDcw">7. 3rd/4th and 5th Day Sample: Learning Goals</a> &nbsp;</p>
-<p><a href="https://classroom.google.com/u/1/w/MTI3MjU2MTQwMjU1/tc/MTI3NDc5NDExODA2">8. Participants challenge</a></p>
+<h2><a href="https://classroom.google.com/u/1/w/MTI3MjU2MTQwMjU1/tc/MTI3NDc5MzU5MDcw">7. 3rd/4th and 5th Day Sample: Learning Goals</a> &nbsp;</h2>
+<h2><a href="https://classroom.google.com/u/1/w/MTI3MjU2MTQwMjU1/tc/MTI3NDc5NDExODA2">8. Participants challenge</a></h2>
 </div>
 <div>
 <ul>
