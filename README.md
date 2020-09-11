@@ -1,101 +1,75 @@
-<HTML>
 <div>
-</div>
-<p class="p0"><span class="s1"><a href="https://docs.google.com/document/d/18hnCAKtErFyLZ7Q0TTE4hTFRT5XQaSNrPP_oWJEGZWY/edit">1. First Day Sample: Learning Goals</a></span>&nbsp;<br /> <a href="https://docs.google.com/document/d/18hnCAKtErFyLZ7Q0TTE4hTFRT5XQaSNrPP_oWJEGZWY/edit"><span class="s1">
-<div>
-</div>
-<p class="p1"><span class="s2"><a href="https://docs.google.com/document/d/18hnCAKtErFyLZ7Q0TTE4hTFRT5XQaSNrPP_oWJEGZWY/edit">2. Ice-Breaking Activities</span></a> &nbsp;&nbsp;<br /> <a href="https://classroom.google.com/u/1/w/MTI3MjU2MTQwMjU1/tc/MTI3MzkzMzg3MjYz"><span class="s2">
-<div>
-</div>  
-<p class="p1"><span class="s2"><a href="https://docs.google.com/document/d/18hnCAKtErFyLZ7Q0TTE4hTFRT5XQaSNrPP_oWJEGZWY/edit">3. Project</span></a><br /> Project<br /> Activity Beginner: Paper Circuits &nbsp;<br /> Activity Beginner: Textile Circuits &nbsp;<br /> Activity Beginner: Textile circuits 2<br /> Activity Beginner: No soldering circuit &nbsp;<br /> Activity Medium-Advances: Soldering Circuits<br /> Activity Medium-Advances: Wobble bot<br /> Activity Medium-Advances: Row Boat &nbsp;<br /> Inspiration Electronics: The future of electronics is light</p>
+<p><a href="https://classroom.google.com/u/1/w/MTI3MjU2MTQwMjU1/tc/MTI3NDE5OTgxNjMz">1. First Day Sample: Learning Goals</a>&nbsp;</p>
 </div>
 <div>
-<p class="p3"><span class="s3">Inspiration Electronics: Edema ApS<br /> <a href="https://classroom.google.com/u/1/w/MTI3MjU2MTQwMjU1/tc/MTI3NDM1NDYyMjc2"><span class="s2">4. Second Day Sample: Learning Goals</span></a></span></p>
+<p><a href="https://classroom.google.com/u/1/w/MTI3MjU2MTQwMjU1/tc/MTI3NDE5OTgxNjQy">2. Ice-Breaking Activities</a></p>
+<p><a href="https://classroom.google.com/u/1/w/MTI3MjU2MTQwMjU1/tc/MTI3MzkzMzg3MjYz">3. Project</a></p>
+<ul>
+<li>Project</li>
+<li>Activity Beginner: Paper Circuits &nbsp;</li>
+<li>Activity Beginner: Textile Circuits &nbsp;</li>
+<li>Activity Beginner: Textile circuits 2</li>
+<li>Activity Beginner: No soldering circuit &nbsp;</li>
+<li>Activity Medium-Advances: Soldering Circuits</li>
+<li>Activity Medium-Advances: Wobble bot</li>
+<li>Activity Medium-Advances: Row Boat &nbsp;</li>
+<li>Inspiration Electronics: The future of electronics is light</li>
+<li>Inspiration Electronics: Edema ApS</li>
+</ul>
 </div>
 <div>
-<p class="p3"><span class="s3">Learning Goals<br /> <a href="https://classroom.google.com/u/1/w/MTI3MjU2MTQwMjU1/tc/MTI3NDM1ODYwODk1"><span class="s2">5. Inspiration CNC</span></a></span></p>
+<p><a href="https://classroom.google.com/u/1/w/MTI3MjU2MTQwMjU1/tc/MTI3NDM1NDYyMjc2">4. Second Day Sample: Learning Goals</a></p>
+<ul>
+<li>Learning Goals</li>
+</ul>
 </div>
 <div>
-<p class="p1">Inspiration CNC</p>
+<p><a href="https://classroom.google.com/u/1/w/MTI3MjU2MTQwMjU1/tc/MTI3NDM1ODYwODk1">5. Inspiration CNC</a></p>
 </div>
 <div>
-<p class="p1">Aerospace Metal laser cutting</p>
+<ul>
+<li>Inspiration CNC</li>
+<li>Aerospace Metal laser cutting</li>
+<li>Sydney garden pavilion by AR-MA built from thousands of laser-cutted components</li>
+<li>Textile Antennas for Space Environment</li>
+<li>Nasa Free-space Fiber Optic Laser Rod&nbsp;</li>
+<li>The Future of Healthcare May Reside in Your Smart Clothes</li>
+</ul>
 </div>
 <div>
-<p class="p1">Sydney garden pavilion by AR-MA built from thousands of laser-cutted components &nbsp;</p>
+<p><a href="https://classroom.google.com/u/1/w/MTI3MjU2MTQwMjU1/tc/MTI3NDY0MTk4MTc5">6. Project</a> &nbsp;</p>
 </div>
 <div>
-<p class="p1">Textile Antennas for Space Environment</p>
+<ul>
+<li>Project</li>
+<li>Design a drawing using Turtle Art</li>
+<li>Online Component: CNC Formalization</li>
+<li>Activities: Makercase Basic Box</li>
+<li>Activities: Laser cutting a living hinge box for a book case&nbsp;</li>
+<li>Activities: Glow in the Dark Bean Bags&nbsp;</li>
+<li>Activities: Laser cut puzzles</li>
+<li>Activities: Quick SVG for digifab - vinyl sticker of a US state&nbsp;</li>
+<li>Activities: CNC a 3D Picture</li>
+<li>CNC Machines: LASER CUTTING: THE ULTIMATE GUIDE&nbsp;&nbsp;</li>
+</ul>
 </div>
 <div>
-<p class="p1">Nasa Free-space Fiber Optic Laser Rod &nbsp;</p>
+<p><a href="https://classroom.google.com/u/1/w/MTI3MjU2MTQwMjU1/tc/MTI3NDc5MzU5MDcw">7. 3rd/4th and 5th Day Sample: Learning Goals</a> &nbsp;</p>
+<p><a href="https://classroom.google.com/u/1/w/MTI3MjU2MTQwMjU1/tc/MTI3NDc5NDExODA2">8. Participants challenge</a></p>
 </div>
 <div>
-<p class="p1">The Future of Healthcare May Reside in Your Smart Clothes<br /> <a href="https://classroom.google.com/u/1/w/MTI3MjU2MTQwMjU1/tc/MTI3NDY0MTk4MTc5"><span class="s2">6. Project</span></a> &nbsp;</p>
-</div>
-<div>
-<p class="p1">Project</p>
-</div>
-<div>
-<p class="p1">Design a drawing using Turtle Art &nbsp;</p>
-</div>
-<div>
-<p class="p1">Online Component: CNC Formalization &nbsp;</p>
-</div>
-<div>
-<p class="p1">Activities: Makercase Basic Box</p>
-</div>
-<div>
-<p class="p1">Activities: Laser cutting a living hinge box for a book case &nbsp;</p>
-</div>
-<div>
-<p class="p1">Activities: Glow in the Dark Bean Bags &nbsp;</p>
-</div>
-<div>
-<p class="p1">Activities: Laser cut puzzles</p>
-</div>
-<div>
-<p class="p1">Activities: Quick SVG for digifab - vinyl sticker of a US state &nbsp;</p>
-</div>
-<div>
-<p class="p1">Activities: CNC a 3D Picture &nbsp;</p>
-</div>
-<div>
-<p class="p3"><span class="s3">CNC Machines: LASER CUTTING: THE ULTIMATE GUIDE &nbsp;<br /> <a href="https://classroom.google.com/u/1/w/MTI3MjU2MTQwMjU1/tc/MTI3NDc5MzU5MDcw"><span class="s2">7. 3rd/4th and 5th Day Sample: Learning Goals</span></a> &nbsp;<br /> <a href="https://classroom.google.com/u/1/w/MTI3MjU2MTQwMjU1/tc/MTI3NDc5NDExODA2"><span class="s2">8. Participants challenge</span></a> </span></p>
-</div>
-<div>
-<p class="p1">Participants challenge</p>
-</div>
-<div>
-<p class="p1">Lasercut Little Wood Boxes</p>
-</div>
-<div>
-<p class="p1">No-CNC &nbsp;</p>
-</div>
-<div>
-<p class="p1">Easy to Make Fancy LightBox</p>
-</div>
-<div>
-<p class="p1">Textiles: Sew a Bag with LED &nbsp;</p>
-</div>
-<div>
-<p class="p1">Textiles: Sew a Custom Handbag with a Built-In LED Matrix &nbsp;</p>
-</div>
-<div>
-<p class="p1">Textiles: Light paint glove &nbsp;</p>
-</div>
-<div>
-<p class="p1">LED Cork Light</p>
-</div>
-<div>
-<p class="p1">Creative Problem Solving</p>
-</div>
-<div>
-<p class="p1">Scrum/Asana Fundamentals</p>
-</div>
-<div>
-<p class="p1">Scrum in under 5 minutes&nbsp;</p>
-</div>
-<div>
-<p class="p1">ASANA for Agile!</p>
+<ul>
+<li>Participants challenge</li>
+<li>Lasercut Little Wood Boxes</li>
+<li>No-CNC</li>
+<li>Easy to Make Fancy LightBox</li>
+<li>Textiles: Sew a Bag with LED&nbsp;</li>
+<li>Textiles: Sew a Custom Handbag with a Built-In LED Matrix&nbsp;</li>
+<li>Textiles: Light paint glove&nbsp;</li>
+<li>LED Cork Light</li>
+<li>Creative Problem Solving</li>
+<li>Scrum/Asana Fundamentals</li>
+<li>Scrum in under 5 minutes</li>
+<li>ASANA for Agile!</li>
+</ul>
 </div>
