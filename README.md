@@ -2,8 +2,13 @@
 <h1>Skills 101: Make it shine <h1/>  
 <div>
 </div>
+<p class="p0"><span class="s1"><a href="https://docs.google.com/document/d/18hnCAKtErFyLZ7Q0TTE4hTFRT5XQaSNrPP_oWJEGZWY/edit">1. First Day Sample: Learning Goals</a></span>&nbsp;<br /> <a href="https://docs.google.com/document/d/18hnCAKtErFyLZ7Q0TTE4hTFRT5XQaSNrPP_oWJEGZWY/edit"><span class="s1">
 <div>
-<p class="p1"><span class="s2"><a href="https://docs.google.com/document/d/18hnCAKtErFyLZ7Q0TTE4hTFRT5XQaSNrPP_oWJEGZWY/edit">1. First Day Sample: Learning Goals</a></span>&nbsp;<br /> <a href="https://docs.google.com/document/d/18hnCAKtErFyLZ7Q0TTE4hTFRT5XQaSNrPP_oWJEGZWY/edit"><span class="s2">2. Ice-Breaking Activities</span></a> &nbsp;&nbsp;<br /> <a href="https://classroom.google.com/u/1/w/MTI3MjU2MTQwMjU1/tc/MTI3MzkzMzg3MjYz"><span class="s2">3. Project</span></a><br /> Project<br /> Activity Beginner: Paper Circuits &nbsp;<br /> Activity Beginner: Textile Circuits &nbsp;<br /> Activity Beginner: Textile circuits 2<br /> Activity Beginner: No soldering circuit &nbsp;<br /> Activity Medium-Advances: Soldering Circuits<br /> Activity Medium-Advances: Wobble bot<br /> Activity Medium-Advances: Row Boat &nbsp;<br /> Inspiration Electronics: The future of electronics is light</p>
+</div>
+<p class="p1"><span class="s2"><a href="https://docs.google.com/document/d/18hnCAKtErFyLZ7Q0TTE4hTFRT5XQaSNrPP_oWJEGZWY/edit">2. Ice-Breaking Activities</span></a> &nbsp;&nbsp;<br /> <a href="https://classroom.google.com/u/1/w/MTI3MjU2MTQwMjU1/tc/MTI3MzkzMzg3MjYz"><span class="s2">
+<div>
+</div>  
+<p class="p1"><span class="s2"><a href="https://docs.google.com/document/d/18hnCAKtErFyLZ7Q0TTE4hTFRT5XQaSNrPP_oWJEGZWY/edit">3. Project</span></a><br /> Project<br /> Activity Beginner: Paper Circuits &nbsp;<br /> Activity Beginner: Textile Circuits &nbsp;<br /> Activity Beginner: Textile circuits 2<br /> Activity Beginner: No soldering circuit &nbsp;<br /> Activity Medium-Advances: Soldering Circuits<br /> Activity Medium-Advances: Wobble bot<br /> Activity Medium-Advances: Row Boat &nbsp;<br /> Inspiration Electronics: The future of electronics is light</p>
 </div>
 <div>
 <p class="p3"><span class="s3">Inspiration Electronics: Edema ApS<br /> <a href="https://classroom.google.com/u/1/w/MTI3MjU2MTQwMjU1/tc/MTI3NDM1NDYyMjc2"><span class="s2">4. Second Day Sample: Learning Goals</span></a></span></p>
