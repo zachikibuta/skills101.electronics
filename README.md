@@ -1,12 +1,18 @@
 <div>
-<h2><a href="https://docs.google.com/document/d/18hnCAKtErFyLZ7Q0TTE4hTFRT5XQaSNrPP_oWJEGZWY/edit">1. First Day Sample: Learning Goals</a>&nbsp;</h2>
+<h2>1. First Day Sample: Learning Goals</h2>
+<ul>
+<li><a href="https://docs.google.com/document/d/18hnCAKtErFyLZ7Q0TTE4hTFRT5XQaSNrPP_oWJEGZWY/edit" target="_blank" rel="noopener">Learning Goals</a>&nbsp;</li>
+</ul>
 </div>
 <div>
-<h2><a href="https://classroom.google.com/u/1/w/MTI3MjU2MTQwMjU1/tc/MTI3NDE5OTgxNjQy">2. Ice-Breaking Activities</a></h2>
-<h2><a href="https://classroom.google.com/u/1/w/MTI3MjU2MTQwMjU1/tc/MTI3MzkzMzg3MjYz">3. Project</a></h2>
+<h2>2. Ice-Breaking Activities</h2>
 <ul>
-<li>Project</li>
-<li>Activity Beginner: Paper Circuits &nbsp;</li>
+<li><a href="https://docs.google.com/document/d/1UlMbhexERU19T-8WQ1_Mjt4jlJDkYsLNNyg3s_hFX6c/edit" target="_blank" rel="noopener">Ice-Breaking Activities</a></li>
+</ul>
+<h2>3. Project</h2>
+<ul>
+<li><a href="https://docs.google.com/document/d/1XpHR0gwOPT0D2u9b_U_TQ093ShmzuLXEkb1WGyLa1Jg/edit" target="_blank" rel="noopener">Project</a></li>
+<li><a href="https://www.exploratorium.edu/tinkering/projects/paper-circuits" target="_blank" rel="noopener">Activity Beginner: Paper Circuits &nbsp;</a></li>
 <li>Activity Beginner: Textile Circuits &nbsp;</li>
 <li>Activity Beginner: Textile circuits 2</li>
 <li>Activity Beginner: No soldering circuit &nbsp;</li>
