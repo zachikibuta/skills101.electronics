@@ -79,3 +79,5 @@
 <li><a href="https://www.youtube.com/watch?v=0Yp0OZBs8d4" target="_blank" rel="noopener">ASANA for Agile!</a></li>
 </ul>
 </div>
+<p><video controls="controls" width="320" height="240">
+  <source type="video/mp4" src="https://www.youtube.com/watch?v=0Yp0OZBs8d4" /></video></p>
