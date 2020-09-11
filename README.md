@@ -1,3 +1,6 @@
+---
+youtubeId: watch?v=0Yp0OZBs8d4
+---
 <div>
 <h2>1. First Day Sample: Learning Goals</h2>
 <ul>
