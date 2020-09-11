@@ -80,6 +80,6 @@
 </ul>
 </div>
 <video width="320" height="240" controls>
-<source src="https://www.youtube.com/watch?v=0Yp0OZBs8d4" type="video/mpeg">
+<source src="https://www.youtube.com/watch?v=0Yp0OZBs8d4">
 Your browser does not support this awesome video title.
 </video>
