@@ -76,6 +76,6 @@
 <li>Creative Problem Solving</li>
 <li>Scrum/Asana Fundamentals</li>
 <li>Scrum in under 5 minutes</li>
-<li>ASANA for Agile!</li>
+<li><a href="https://www.youtube.com/watch?v=0Yp0OZBs8d4" target="_blank" rel="noopener">ASANA for Agile!</a></li>
 </ul>
 </div>
