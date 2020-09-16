@@ -1,4 +1,3 @@
-<p>--- youtubeId: 0Yp0OZBs8d4 ---</p>
 <div>
 <h2>1. First Day Sample: Learning Goals</h2>
 <ul>
@@ -114,4 +113,3 @@
 <li><a href="https://www.youtube.com/watch?v=0Yp0OZBs8d4" target="_blank" rel="noopener">ASANA for Agile!</a></li>
 </ul>
 </div>
-<p>{% include youtubePlayer.html id=page.youtubeId %}</p>
